@@ -1,0 +1,32 @@
+   <hr>
+    <p align="left">Фамилия </label><input type="text" name="last_name"></p>
+    <p align="left">Имя </label><input type="text" name="first_name"></p>
+    <p align="left">Отчество </label><input type="text"></p>
+    <p align="left">Email </label><input type="email" name="email"></p>
+    <p align="left">Телефон </label><input type="tel" name="phone"></p>
+    <p align="left">Пароль </label><input type="password" name="password"></p>
+    <p align="left">Подтверждение пароля </label><input type="password" name="password_confirm"></p>
+    <p align="left">Федеральный округ <select name="country"><option>Центральный</option><option>Южный</option><option>Северный</option></select></label></p>
+    <hr>
+    <p align="left">Заказываю</p></label>
+    <p align="left">
+        
+    <input type="checkbox" > Рога в количестве <input type="number" placeholder="Укажите количество" min="0"> штук
+    </label></p>
+    <p align="left">
+    <input type="checkbox"> Копыта в количестве <input type="number" placeholder="Укажите количество" min="0"> штук
+    </label></p>
+    <hr>
+    <p align="left">Пожелания:</label></p>
+    <p align="left"><textarea rows="10" cols="40"></textarea></p>
+    <p align="left"><input type="button" value="Принять заказ"></p>
+    </td>
+    </tr>
+    <tr>
+    <td colspan=2 height="300px" 
+    <i>© Бендер и конпания </i>
+    </td>
+    </tr>
+    </table>
+    </body>
+    </html>
